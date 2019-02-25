@@ -22,5 +22,20 @@
   "bugs": {
     "url": "https://github.com/MasonChinkin/w8d1_aA/issues"
   },
-  "homepage": "https://github.com/MasonChinkin/w8d1_aA#readme"
+  "homepage": "https://github.com/MasonChinkin/w8d1_aA#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "lodash": "^4.17.11",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.1",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3",
+    "webpack-livereload-plugin": "^2.2.0"
+  }
 }
